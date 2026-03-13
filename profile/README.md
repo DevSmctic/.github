@@ -25,7 +25,7 @@
 <br>
 
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/DevSmctic/.github/main/profile/assets/bg2.png" alt="Banner Itaguaí">
+  <img width="980" src="https://raw.githubusercontent.com/DevSmctic/.github/main/profile/assets/bg32-Photoroom.png" alt="Banner Itaguaí">
 </p>
 
 <br>
