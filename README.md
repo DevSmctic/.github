@@ -12,7 +12,7 @@
 
 <br>
 
-<h1 align="center">🏛️ Prefeitura Municipal de Itaguaí</h1>
+<h1 align="center">🏛️ Prefeitura Municipal de Itaguaíp</h1>
 
 <h3 align="center">Subsecretaria Municipal de Ciência, Tecnologia e Inovação — SMCTI</h3>
 
