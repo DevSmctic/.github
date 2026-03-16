@@ -34,10 +34,10 @@
 <h2>📌 Sobre</h2>
 
 <p>
-  Este é o perfil oficial no GitHub da <strong>Prefeitura Municipal de Itaguaí (PMI)</strong>, município localizado na região metropolitana do Rio de Janeiro — RJ, Brasil.
+  Este é o perfil oficial no GitHub da <strong>Prefeitura Municipal de Itaguaí
 </p>
 <p>
-  Aqui você encontra os projetos, sistemas e soluções digitais desenvolvidos e mantidos pela equipe de Tecnologia da Informação da administração municipal, com foco em modernização, eficiência e transparência nos serviços públicos prestados à população itaguaiense.
+  Aqui você encontra os projetos, sistemas e soluções digitais desenvolvidos e mantidos pela equipe de Tecnologia da Informação, com foco em modernização, eficiência e transparência nos serviços públicos prestados à população itaguaiense.
 </p>
 
 <h2>🎯 Missão</h2>
