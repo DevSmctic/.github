@@ -1,20 +1,25 @@
 
 
-<br>
-
-<h1 align="center">🏛️ Prefeitura Municipal de Itaguaí.</h1>
-
-<p align="center" style="color: #b0b0b0; font-size: 0.9em;">
-  <strong>Bem-vindo ao espaço oficial de tecnologia da Prefeitura de Itaguaí no GitHub!</strong><br><br>
-  Aqui você encontra projetos, sistemas e soluções digitais da nossa equipe de TI,<br>
-  com foco em modernizar a gestão pública e melhorar os serviços ao cidadão itaguaiense.
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/DevSmctic/.github/main/profile/assets/bg32-Photoroom.png" alt="Banner Itaguaí">
 </p>
 
-
-<br>
+<h1 align="center">🏛️ Prefeitura Municipal de Itaguaí</h1>
 
 <p align="center">
-  <img width="980" src="https://raw.githubusercontent.com/DevSmctic/.github/main/profile/assets/bg32-Photoroom.png" alt="Banner Itaguaí">
+  Bem-vindo ao espaço oficial de tecnologia da <strong>Prefeitura Municipal de Itaguaí</strong> no GitHub.<br>
+  Aqui reunimos projetos, sistemas e soluções digitais desenvolvidos pela equipe de TI municipal,<br>
+  com foco em inovação, eficiência e serviços melhores para o cidadão itaguaiense.
+</p>
+
+<p align="center">
+  <a href="https://www.itaguai.rj.gov.br" target="_blank">
+    <img src="https://img.shields.io/badge/Site%20Oficial-00875A?style=flat-square&logo=google-chrome&logoColor=white" alt="Site Oficial" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Itaguaí-RJ%2C%20Brasil-003580?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Gestão%20Pública-Tecnologia%20%26%20Inovação-6a0dad?style=flat-square" alt="TI Municipal" />
 </p>
 
 <br>
