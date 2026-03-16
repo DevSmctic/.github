@@ -1,8 +1,7 @@
 
 
 <br>
-<p align="left"><strong>Bem vindo ao Github,</strong></p>
-<h1 align="center">da Prefeitura Municipal de Itaguaí.</h1>
+<h1 align="center">🏛️ Bem-vindo ao GitHub da Prefeitura Municipal de Itaguaí</h1>
 
 <p align="center">
   <strong>Bem-vindo ao espaço oficial de tecnologia da Prefeitura de Itaguaí no GitHub!</strong><br><br>
