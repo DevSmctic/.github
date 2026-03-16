@@ -1,7 +1,7 @@
 
 
 <br>
-<h1 align="center">Bem-vindo ao GitHub da 🏛️Prefeitura Municipal de Itaguaí</h1>
+<h3 align="center">Bem-vindo ao GitHub da Prefeitura Municipal de Itaguaí</h3>
 
 
 <br>
