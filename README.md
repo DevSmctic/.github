@@ -1,3 +1,21 @@
+
+
+<br>
+
+<h1 align="center">🏛️ Prefeitura Municipal de Itaguaíp</h1>
+
+
+
+
+
+<br>
+
+<p align="center">
+  <img width="980" src="https://raw.githubusercontent.com/DevSmctic/.github/main/profile/assets/bg32-Photoroom.png" alt="Banner Itaguaí">
+</p>
+
+<br>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-html" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-css" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -10,21 +28,6 @@
   <img align="center" alt="icon-postgresql" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-<br>
-
-<h1 align="center">🏛️ Prefeitura Municipal de Itaguaíp</h1>
-
-<h3 align="center">Subsecretaria Municipal de Ciência, Tecnologia e Inovação — SMCTI</h3>
-
-
-
-<br>
-
-<p align="center">
-  <img width="980" src="https://raw.githubusercontent.com/DevSmctic/.github/main/profile/assets/bg32-Photoroom.png" alt="Banner Itaguaí">
-</p>
-
-<br>
 
 <h2>📌 Sobre</h2>
 
