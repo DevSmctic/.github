@@ -29,11 +29,13 @@
   <img alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </p>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3>📌 Sobre</h3>
-
-
 <p>
   Aqui você encontra os projetos, sistemas e soluções digitais desenvolvidos e mantidos pela equipe de Tecnologia da Informação, com foco em modernização, eficiência e transparência nos serviços públicos prestados à população itaguaiense.
 </p>
