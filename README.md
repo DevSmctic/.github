@@ -13,7 +13,11 @@
 <p align="center">
   <img width="980" src="https://raw.githubusercontent.com/DevSmctic/.github/main/profile/assets/bg32-Photoroom.png" alt="Banner Itaguaí">
 </p>
+<p align="center">
 
+</p><p align="center">
+
+</p>
 <br>
 
 <p align="center">
