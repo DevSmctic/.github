@@ -11,22 +11,30 @@
 <br>
 
 <p align="center">
-  <img width="980" src="https://raw.githubusercontent.com/DevSmctic/.github/main/profile/assets/bg32-Photoroom.png" alt="Banner Itaguaí">
+  <img width="980" src="https://raw.githubusercontent.com/DevSmctic/.github/main/profile/assets/bg332.png" alt="Banner Itaguaí">
 </p>
 
 <br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="icon-html" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="icon-css" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="icon-javascript" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="icon-react" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="icon-nodejs" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="icon-python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="icon-dotnet" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="icon-docker" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="icon-postgresql" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <strong>Frontend</strong><br><br>
+      <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img alt="Next.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+      <img alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+    </td>
+    <td align="right" width="50%">
+      <strong>Backend &amp; Infra</strong><br><br>
+      <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+      <img alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    </td>
+  </tr>
+</table>
 
 
 <h2>📌 Sobre</h2>
