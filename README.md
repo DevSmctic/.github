@@ -16,11 +16,7 @@
 
 <h3 align="center">Subsecretaria Municipal de Ciência, Tecnologia e Inovação — SMCTI</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Itaguaí-RJ%20|%20Brasil-00875A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformação-Digital-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Governo-Municipal-FFD700?style=for-the-badge" />
-</p>
+
 
 <br>
 
