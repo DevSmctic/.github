@@ -16,6 +16,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <p align="center">
   <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
