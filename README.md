@@ -38,6 +38,12 @@
 
 <br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevSmctic/.github/output/github-snake-dark.svg" alt="Snake animation" width="100%">
+</p>
+
+<br>
+
 <h3>📌 Sobre</h3>
 <p>
   Aqui você encontra os projetos, sistemas e soluções digitais desenvolvidos e mantidos pela equipe de Tecnologia da Informação, com foco em modernização, eficiência e transparência nos serviços públicos prestados à população itaguaiense.
