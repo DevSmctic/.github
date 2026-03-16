@@ -32,15 +32,7 @@
 <br>
 <br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevSmctic&theme=github_dark" alt="Estatísticas DevSmctic" width="100%">
-</p>
 
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DevSmctic/.github/output/github-snake-dark.svg" alt="Snake animation" width="100%">
-</p>
 
 <br>
 
