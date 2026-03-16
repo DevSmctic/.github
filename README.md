@@ -33,9 +33,7 @@
 
 <h3>📌 Sobre</h3>
 
-<p>
-  Este é o perfil oficial no GitHub da <strong>Prefeitura Municipal de Itaguaí
-</p>
+
 <p>
   Aqui você encontra os projetos, sistemas e soluções digitais desenvolvidos e mantidos pela equipe de Tecnologia da Informação, com foco em modernização, eficiência e transparência nos serviços públicos prestados à população itaguaiense.
 </p>
