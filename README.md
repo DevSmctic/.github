@@ -3,9 +3,8 @@
 <br>
 <h2 align="center">🏛️ Bem-vindo ao GitHub da Prefeitura Municipal de Itaguaí</h2>
 
-<p align="center">
-
-</p>
+<br>
+<br>
 
 
 <br>
@@ -13,13 +12,10 @@
 <p align="center">
   <img width="980" src="https://raw.githubusercontent.com/DevSmctic/.github/main/profile/assets/bg32-Photoroom.png" alt="Banner Itaguaí">
 </p>
-<p align="center">
 
-</p><p align="center">
-
-</p>
 <br>
-
+<br>
+<br>
 <p align="center">
   <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
