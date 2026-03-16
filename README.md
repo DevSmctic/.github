@@ -7,7 +7,7 @@
 <p align="center" style="color: #b0b0b0; font-size: 0.9em;">
   <strong>Bem-vindo ao espaço oficial de tecnologia da Prefeitura de Itaguaí no GitHub!</strong><br><br>
   Aqui você encontra projetos, sistemas e soluções digitais da nossa equipe de TI,<br>
-  com foco em modernizar a gestão pública e melhorar os serviços ao cidadão. 🇧🇷
+  com foco em modernizar a gestão pública e melhorar os serviços ao cidadão itaguaiense.
 </p>
 
 
